@@ -1,0 +1,150 @@
+nav{
+   background-color:#d35649;
+  
+}
+nav div img{
+    width: 98px;
+    align-items: center; 
+}
+ a{
+     background-position: 0%;
+     text-align: center;
+     text-decoration: none   
+}
+div ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.fl{
+    float: right;
+    text-align: center;
+   align-content: center;
+}
+.soa{
+    float: left;
+}
+.bloc-form{
+    margin-top: 2,3em;
+    margin-bottom: 2,3em;
+    height: auto;
+    background-color: gray;
+
+}
+.grid-1{
+    padding: 200px;
+    max-width: 1000px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fill,150px);
+    align-items: center;
+    gap: 22px;
+    
+    display: flex;
+}
+.bloc-image{
+    padding: 200px;
+    height: auto;
+    text-align: center;
+}
+.bloc-image h2{
+    padding: 200px;
+} 
+.grid-2{
+    max-width: 1000px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fill,150px);
+    align-items: center;
+}
+figure img{
+    
+    width: 200px;
+    align-items: center;
+    display: flex;
+    background-color: #d35649;
+} 
+    
+.izy {
+    
+    height: 300px;
+    width: 300px;
+    background-color: #d35649;
+}
+.malala{
+    display: flex;
+    justify-content: space-evenly; 
+    background-color: white;
+}
+.fig{
+    background-color: #d35649;
+    position: relative;
+}
+figcaption{
+    position: absolute;
+    width: 300px;
+    top: 5px;
+   
+    
+    height: 400px;
+}
+h1{
+    text-align: center;
+}
+nav a{
+    color: white;
+}
+nav li{
+    color: white;
+}
+h3{
+    text-align: center;
+    color: dimgray;
+}
+
+
+nav fl{
+    color: white;
+    width: 2px;
+    height: 2px;
+}
+.horizontale{
+display: flex;
+top: 5px;
+}
+a{
+    justify-content: center;
+   
+    width:2px
+
+}
+h3{
+    display: flex;
+}
+.partie-noire{
+    background-color:#1f1f1f;
+}
+.interieur{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding-top: 50px;
+}
+.horizontale{
+    border-bottom: 2px;
+    border-top: 2px;
+    padding: 12px;
+}
+.horizontale-a{
+    color:white;
+    text-decoration: none;
+}
+.nav-finale{
+    display: flex;
+    color: white;
+}
+ 
+h1{
+    text-align: center;
+}
+
+   
